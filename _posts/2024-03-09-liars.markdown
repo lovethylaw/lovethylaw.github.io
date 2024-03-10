@@ -10,9 +10,9 @@ A famous barrister once said, in a trial, the better liar wins.
 
 A pupil asked him:
 
-“You assume that both sides are liars, but what if one side
-is telling the truth?”
+"You assume that both sides are liars, but what if one side
+is telling the truth?"
 
 The barrister replied with a smile:
 
-“I was telling you the truth but you assumed I was lying, didn’t you?”
+"I was telling you the truth but you assumed I was lying, didn't you?"
