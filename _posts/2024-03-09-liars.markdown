@@ -1,0 +1,18 @@
+---
+layout: post
+list_title: Liars
+title: Better liars
+date:   2024-03-09 00:00:00 +0800
+categories: joke barrister
+---
+
+A famous barrister once said, in a trial, the better liar wins.
+
+A pupil asked him:
+
+“You assume that both sides are liars, but what if one side
+is telling the truth?”
+
+The barrister replied with a smile:
+
+“I was telling you the truth but you assumed I was lying, didn’t you?”
