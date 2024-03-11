@@ -10,4 +10,5 @@ categories: joke barrister
 experiment demonstrated that observation alters the state of reality.
 
 There is also Schrödinger's court:
-justice at the family court, when observed carefully, disappears.
+
+Justice at the family court, when observed carefully, disappears.
