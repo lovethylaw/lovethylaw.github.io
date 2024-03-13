@@ -3,7 +3,7 @@ layout: post
 list_title: Family restaurant
 title: Family restaurant
 date:   2024-03-01 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 A family law student asked the professor. "Professor, how is family court like compared to criminal court"?

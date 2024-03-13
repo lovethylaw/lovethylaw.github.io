@@ -3,7 +3,7 @@ layout: post
 list_title: Family business
 title: Family business
 date:   2024-02-27 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 "Do you know why family law is called family law?", the professor asked.

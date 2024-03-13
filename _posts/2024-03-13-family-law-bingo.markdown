@@ -3,7 +3,7 @@ layout: post
 list_title: Family law BINGO
 title: Family law BINGO
 date:   2024-03-13 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 This is the "Family Law BINGO" table, providing commonly used (rather

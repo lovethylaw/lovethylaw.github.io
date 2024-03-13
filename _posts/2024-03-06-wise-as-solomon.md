@@ -3,7 +3,7 @@ layout: post
 list_title: Wise as Solomon
 title: Wise as Solomon
 date:   2024-03-06 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 Family court judges always demonstrate immense wisdom.

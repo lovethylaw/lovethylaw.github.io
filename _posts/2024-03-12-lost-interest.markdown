@@ -3,7 +3,7 @@ layout: post
 list_title: Lost interest
 title: Lost interest
 date:   2024-03-12 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 The family court is warm and cozy place.

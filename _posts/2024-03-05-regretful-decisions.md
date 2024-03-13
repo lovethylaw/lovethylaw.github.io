@@ -3,7 +3,7 @@ layout: post
 list_title: Regretful decisions
 title: Regretful decisions
 date:   2024-03-05 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 A family court judge is asked,

@@ -3,7 +3,7 @@ layout: post
 list_title: Wordings matter
 title: Wordings matter
 date:   2024-03-07 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 In family court, wordings matter.

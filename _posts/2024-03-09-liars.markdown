@@ -3,7 +3,7 @@ layout: post
 list_title: Better liars
 title: Better liars
 date:   2024-03-09 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 A famous barrister once said, in a trial, the better liar wins.

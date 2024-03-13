@@ -3,7 +3,7 @@ layout: post
 list_title: Minimal preparations
 title: Minimal preparations
 date:   2024-02-29 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 A family court judge is known to make minimal preparations for court hearings.

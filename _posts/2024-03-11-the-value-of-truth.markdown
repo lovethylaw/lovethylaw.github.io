@@ -3,7 +3,7 @@ layout: post
 list_title: The value of truth
 title: The value of truth
 date:   2024-03-11 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 "In the cases I read, it seems that in family court the truth is not well

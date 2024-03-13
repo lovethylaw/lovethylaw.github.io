@@ -3,7 +3,7 @@ layout: post
 list_title: Watching the TV
 title: Watching the TV
 date:   2024-03-02 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 A family court judge is close to retirement age but feels uneasy.

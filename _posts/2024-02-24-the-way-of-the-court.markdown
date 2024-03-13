@@ -3,7 +3,7 @@ layout: post
 list_title: The way of the court
 title: The way of the court
 date:   2024-02-24 00:00:00 +0800
-categories: joke barrister
+categories:
 ---
 
 Lao Tzu in the Dao De Jing once said about the way of the Tao:
